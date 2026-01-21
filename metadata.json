@@ -1,0 +1,7 @@
+{
+  "name": "Mầm Non - Lưu Trữ Môi Trường Lớp Học",
+  "description": "Hệ thống quản lý và trình bày hình ảnh môi trường giáo dục mầm non theo năm học, khối và lớp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
